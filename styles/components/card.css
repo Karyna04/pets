@@ -1,0 +1,19 @@
+.card {
+  border-radius: 9px;
+  background-color: #fafafa;
+  text-align: center;
+}
+
+.card-title {
+  font-size: 20px;
+  line-height: 45px;
+  letter-spacing: 1.2px;
+}
+
+.card-image > img {
+  /* height: 226px; */
+}
+
+.card-body {
+  padding: 34px 16px;
+}

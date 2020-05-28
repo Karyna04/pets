@@ -1,0 +1,20 @@
+.nav {
+  display: inline-block;
+}
+.nav-item {
+  color: #545454;
+  font-family: "Arial MT";
+  font-size: 15px;
+  line-height: 29px;
+  margin: 0 19px;
+  padding-bottom: 6px;
+}
+
+.nav-item:hover {
+  color: #292929;
+  text-decoration: none;
+  border-bottom: 2px solid #f1cdb3;
+}
+.nav-item.is-active {
+  border-bottom: 2px solid #f1cdb3;
+}
